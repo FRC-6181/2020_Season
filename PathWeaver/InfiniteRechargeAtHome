@@ -1,10 +1,10 @@
 {
-"game" : "Destination: Deep Space",
+"game" : "Map",
 "field-image" : "Infinite Recharge at Home.jpeg",
 "field-corners": {
 	"top-left" : [0 0],
 	"bottom-right" : [4000,2000]
 },
-"field-size" : [54, 27],
+"field-size" : [30, 15],
 "field-unit" : "foot"
 }
